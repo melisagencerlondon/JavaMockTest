@@ -1,0 +1,17 @@
+Object oriented programming:
+   its simply a style of programming.
+    it is one of the most widely used and famous way of creating
+    software applications. other ways of programming are functional programming,
+    procedural is an other example. There are
+    Why should we use OOPs?
+       OOps helps us write/manage/change/update easily.
+       There are 4 main pillars of OOPs:
+       1)Inheritance
+       2)Polymorphism
+       3)Abstraction
+       4)Encapsulation
+what is a class?
+   A class is a template/design/idea from which objects are created.
+Object:
+   Objects are entities with specific values and are used to execute the code from
+   classes.

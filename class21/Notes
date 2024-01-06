@@ -1,0 +1,8 @@
+Abstraction in Java:
+     Abstract mean something which is not clear or not complete.
+     We use abs.to create methods which are incomplete meaning
+     they don't have method headers.
+Why should we create abstract methods?
+     1)When we know tact every child will be overriding a method we don't need to have a method body.
+     2)It acts as a template when we create a method as abstract every child must provide body for that.
+     it used to enforce methods on the child classes.

@@ -1,0 +1,13 @@
+NestedLoop:
+when we write a loop inside another loop it called a nested loop.
+Examples
+for(int i=1; i<=5;i++)
+for(int j=1;j<=5;j++){
+sout
+
+
+
+Array:
+array is a collection of similar items store in one single variable.
+these values can be stored and accessed using the indexes, An index is a
+number that is assigned to every

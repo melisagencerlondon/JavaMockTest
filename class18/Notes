@@ -1,0 +1,6 @@
+MethodOverride:
+Method override allows child to modify methods
+which are being inherited from the classes.
+Benefits of MethodOverride:
+its gives flexibility to the child classes to change methods
+which are coming from parents if they want to.
